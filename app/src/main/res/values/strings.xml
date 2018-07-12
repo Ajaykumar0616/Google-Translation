@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Teh</string>
+    <string-array name="language_array">
+        <item>Hindi</item>
+        <item>Bengali</item>
+        <item>Gujarati</item>
+        <item>Malayalam</item>
+        <item>Marathi</item>
+        <item>Nepali</item>
+        <item>Punjabi</item>
+        <item>Sindhi</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+        <item>Urdu</item>
+    </string-array>
+</resources>
